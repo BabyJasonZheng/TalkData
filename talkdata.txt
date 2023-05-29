@@ -1,0 +1,6 @@
+User: Hello, how can I help you?
+Bot: Hi, I'm a chatbot. I can assist you with various tasks.
+User: I need some information about product XYZ.
+Bot: Sure, I can provide details about product XYZ. What specifically would you like to know?
+User: How much does it cost?
+Bot: The price of product XYZ is $99.
